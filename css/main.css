@@ -29,7 +29,7 @@ nav {
 
 body {
     font: normal 16px;
-    'Open Sans',
+    'Cantarell',
     sans-serif;
     color: #555;
     text-align: center;
@@ -305,7 +305,7 @@ section p {
 section h3 {
     color: #414A4F;
     text-transform: capitalize;
-    font: 32px 'Open San', san-serif;
+    font: 32px 'Cantarell', san-serif;
     margin-bottom: 35px;
 }
 
